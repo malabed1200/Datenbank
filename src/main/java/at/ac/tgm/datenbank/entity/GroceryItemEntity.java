@@ -1,4 +1,4 @@
-package entity;
+package at.ac.tgm.datenbank.entity;
 
 import jakarta.persistence.*;
 

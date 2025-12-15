@@ -1,4 +1,4 @@
-package dto;
+package at.ac.tgm.datenbank.dto;
 
 public class GroceryItemDto {
 
